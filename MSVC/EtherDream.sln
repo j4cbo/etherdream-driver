@@ -4,7 +4,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EtherDreamDLL", "EtherDream.vcxproj", "{92E5E32F-6D8C-4037-A1D4-7C351A9ED55F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EtherDreamLib", "EtherDreamLib.vcxproj", "{601052A0-667A-4FBC-A988-672B3D1B8B72}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EtherDreamTestApp", "test\EtherDreamTestApp.vcxproj", "{57DE14DB-B070-44CE-99CC-02F9831D8B96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,14 +22,14 @@ Global
 		{92E5E32F-6D8C-4037-A1D4-7C351A9ED55F}.Release|Win32.Build.0 = Release|Win32
 		{92E5E32F-6D8C-4037-A1D4-7C351A9ED55F}.Release|x64.ActiveCfg = Release|x64
 		{92E5E32F-6D8C-4037-A1D4-7C351A9ED55F}.Release|x64.Build.0 = Release|x64
-		{601052A0-667A-4FBC-A988-672B3D1B8B72}.Debug|Win32.ActiveCfg = Debug|Win32
-		{601052A0-667A-4FBC-A988-672B3D1B8B72}.Debug|Win32.Build.0 = Debug|Win32
-		{601052A0-667A-4FBC-A988-672B3D1B8B72}.Debug|x64.ActiveCfg = Debug|x64
-		{601052A0-667A-4FBC-A988-672B3D1B8B72}.Debug|x64.Build.0 = Debug|x64
-		{601052A0-667A-4FBC-A988-672B3D1B8B72}.Release|Win32.ActiveCfg = Release|Win32
-		{601052A0-667A-4FBC-A988-672B3D1B8B72}.Release|Win32.Build.0 = Release|Win32
-		{601052A0-667A-4FBC-A988-672B3D1B8B72}.Release|x64.ActiveCfg = Release|x64
-		{601052A0-667A-4FBC-A988-672B3D1B8B72}.Release|x64.Build.0 = Release|x64
+		{57DE14DB-B070-44CE-99CC-02F9831D8B96}.Debug|Win32.ActiveCfg = Debug|Win32
+		{57DE14DB-B070-44CE-99CC-02F9831D8B96}.Debug|Win32.Build.0 = Debug|Win32
+		{57DE14DB-B070-44CE-99CC-02F9831D8B96}.Debug|x64.ActiveCfg = Debug|x64
+		{57DE14DB-B070-44CE-99CC-02F9831D8B96}.Debug|x64.Build.0 = Debug|x64
+		{57DE14DB-B070-44CE-99CC-02F9831D8B96}.Release|Win32.ActiveCfg = Release|Win32
+		{57DE14DB-B070-44CE-99CC-02F9831D8B96}.Release|Win32.Build.0 = Release|Win32
+		{57DE14DB-B070-44CE-99CC-02F9831D8B96}.Release|x64.ActiveCfg = Release|x64
+		{57DE14DB-B070-44CE-99CC-02F9831D8B96}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
