@@ -51,7 +51,7 @@ struct buffer_item {
     int points;
     int pps;
     int repeatcount;
-    int idx;
+    int idx = 0;
 };
 
 enum dac_state {
