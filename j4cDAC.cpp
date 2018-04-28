@@ -493,8 +493,8 @@ int EzAudDac_convert_data(struct buffer_item *buf, const void *vdata, int bytes,
             buf->data[o].g = data[i].G << 1;
             buf->data[o].b = data[i].B << 1;
             buf->data[o].i = data[i].I << 1;
-            buf->data[o].u1 = data[i].AL;
-            buf->data[o].u2 = data[i].AR;
+            buf->data[o].u1 = data[i].AL << 1;
+            buf->data[o].u2 = data[i].AR << 1;
             buf->data[o].control = 0;
             o++;
         }
